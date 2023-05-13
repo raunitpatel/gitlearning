@@ -11,3 +11,6 @@ span{
 nav{
     color-scheme: black;
 }
+h1{
+    color-interpolation-filters: linearRGB;
+}
