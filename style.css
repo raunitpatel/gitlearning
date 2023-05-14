@@ -15,3 +15,6 @@ nav{
 h1{
     color-interpolation-filters: linearRGB;
 }
+h2{
+    font-weight: 500;
+}
